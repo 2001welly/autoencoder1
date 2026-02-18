@@ -1,7 +1,0 @@
-tensorflow
-fastapi
-uvicorn
-joblib
-numpy
-pydantic
-python-multipart
